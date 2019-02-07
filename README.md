@@ -7,7 +7,7 @@
 ``` bash
 
 # clone project
-git clone 
+git clone https://github.com/rianmau-lana/ujian-vue.js
 
 # install dependencies
 npm install
