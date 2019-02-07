@@ -1,6 +1,7 @@
 # program ujian menggunakan framework vue.js webpack
+> Nama  : Rian Maulana
+> Kelas : XII RPL 2
 
-> A Vue.js project
 
 ## Build Setup
 
